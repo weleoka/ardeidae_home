@@ -45,9 +45,6 @@ $(document).ready(function(){
     }
   }
 
- // Start plugin for displaying code.
-  SyntaxHighlighter.all();
-
   // Toggle downloadButton highlighting.
   $('#download').hover(function() {
     $(this).attr('src', 'img/downloadHover.png');

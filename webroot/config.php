@@ -77,10 +77,6 @@ $roo['jsForFoot'] = array(
                                    // '../assets/js/jquery-ui.min.js',
                                    // 'js/mos.js',
                                    // 'js/kai.js',
-                                    '../assets/js/syntaxhighlighter_3.0.83/scripts/shCore.js',
-                                   // '../assets/js/syntaxhighlighter_3.0.83/scripts/shBrushJScript.js',
-                                   // '../assets/js/syntaxhighlighter_3.0.83/scripts/autoloader.js',
-                                    '../assets/js/syntaxhighlighter_3.0.83/scripts/shBrushXml.js',
                                     'js/main.js',
                                   ); // To add extra javascript files
 
@@ -111,7 +107,7 @@ $roo['menu'] = array(
     // This is a menu item
     'demo'  => array(
       'text'  =>'Demo',
-      'url'   =>'../assets/ardeidae.client/ardeidae.php',
+      'url'   =>'index.php',
       'title' => 'Try out the service live.',
     ),
 

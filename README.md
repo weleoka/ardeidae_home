@@ -7,6 +7,7 @@ Takes into account browser support issues, implements responsive design and prog
 The aim is to have a quick overview for what should best be not be forgotten in making a new website.
 
 
+
 ## Quickstart
 
 Requires a HTTP server with PHP.
@@ -20,8 +21,12 @@ Enhancements, pollyfills and addons are in the assets folder under either css or
 
 ## Documentation
 
+Currently the site is for development purposes. The CSS uses a pre-compiler; LESS, and currently that is done wit ha client-side javascript-based compiler. Obviously a production site has minimised CSS, and probably files combined for minimum HTTP requests.
 
-### View documentation locally
 
+There is also simple script using jQuery to lazy-load pictures only on WVP (Wide View Port) devices.
+
+
+### Licence etc.
 
 Copyright (c) 2015 Kai Weeks.

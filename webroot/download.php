@@ -14,8 +14,7 @@ $roo['main'] = <<<EOD
         <li data-src="img/gitlogo02.png" class="decoration"></li>
     <a>
     <h3>Source on git</h3>
-    <p>The <a href='https://github.com/weleoka/ardeidae_home'> Ardeidae Server</a>
-    and the also the <a href='https://github.com/weleoka/ardeidae_home.git'>client.</a></p>
+    <p>The <a href='https://github.com/weleoka/ardeidae_home'> Ardeidae Website</a></p>
     <p></p>
 </div>
 
